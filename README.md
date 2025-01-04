@@ -32,7 +32,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [PiyushSolanki(https://piyushsolanki-hub.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [PiyushSolanki](https://piyushsolanki-hub.github.io/Blog-preview-card/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PiyushSolanki-hub)
