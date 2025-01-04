@@ -48,4 +48,4 @@ Users should be able to:
 ## Author
 
 - Website - [PiyushSolanki](https://piyushsolanki-hub.github.io/Blog-preview-card/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/PiyushSolanki-hub)
+- Frontend Mentor - [@PiyushSolanki](https://www.frontendmentor.io/profile/PiyushSolanki-hub)
